@@ -1,0 +1,14 @@
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\bin\Debug\net7.0\Task4.exe
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\bin\Debug\net7.0\Task4.deps.json
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\bin\Debug\net7.0\Task4.runtimeconfig.json
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\bin\Debug\net7.0\Task4.dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\bin\Debug\net7.0\Task4.pdb
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\obj\Debug\net7.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\obj\Debug\net7.0\Task4.AssemblyInfoInputs.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\obj\Debug\net7.0\Task4.AssemblyInfo.cs
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\obj\Debug\net7.0\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\obj\Debug\net7.0\Task4.dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\obj\Debug\net7.0\refint\Task4.dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\obj\Debug\net7.0\Task4.pdb
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\obj\Debug\net7.0\Task4.genruntimeconfig.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Task4\obj\Debug\net7.0\ref\Task4.dll
