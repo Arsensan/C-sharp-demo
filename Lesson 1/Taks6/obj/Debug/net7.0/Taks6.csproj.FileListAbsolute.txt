@@ -1,0 +1,14 @@
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\bin\Debug\net7.0\Taks6.exe
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\bin\Debug\net7.0\Taks6.deps.json
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\bin\Debug\net7.0\Taks6.runtimeconfig.json
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\bin\Debug\net7.0\Taks6.dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\bin\Debug\net7.0\Taks6.pdb
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\obj\Debug\net7.0\Taks6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\obj\Debug\net7.0\Taks6.AssemblyInfoInputs.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\obj\Debug\net7.0\Taks6.AssemblyInfo.cs
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\obj\Debug\net7.0\Taks6.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\obj\Debug\net7.0\Taks6.dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\obj\Debug\net7.0\refint\Taks6.dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\obj\Debug\net7.0\Taks6.pdb
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\obj\Debug\net7.0\Taks6.genruntimeconfig.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\Taks6\obj\Debug\net7.0\ref\Taks6.dll
