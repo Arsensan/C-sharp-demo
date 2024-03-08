@@ -1,0 +1,14 @@
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\bin\Debug\net7.0\RecurssionLesson(Attestation).exe
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\bin\Debug\net7.0\RecurssionLesson(Attestation).deps.json
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\bin\Debug\net7.0\RecurssionLesson(Attestation).runtimeconfig.json
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\bin\Debug\net7.0\RecurssionLesson(Attestation).dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\bin\Debug\net7.0\RecurssionLesson(Attestation).pdb
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\obj\Debug\net7.0\RecurssionLesson(Attestation).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\obj\Debug\net7.0\RecurssionLesson(Attestation).AssemblyInfoInputs.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\obj\Debug\net7.0\RecurssionLesson(Attestation).AssemblyInfo.cs
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\obj\Debug\net7.0\RecurssionLesson(Attestation).csproj.CoreCompileInputs.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\obj\Debug\net7.0\RecurssionLesson(Attestation).dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\obj\Debug\net7.0\refint\RecurssionLesson(Attestation).dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\obj\Debug\net7.0\RecurssionLesson(Attestation).pdb
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\obj\Debug\net7.0\RecurssionLesson(Attestation).genruntimeconfig.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\RecurssionLesson(Attestation)\obj\Debug\net7.0\ref\RecurssionLesson(Attestation).dll

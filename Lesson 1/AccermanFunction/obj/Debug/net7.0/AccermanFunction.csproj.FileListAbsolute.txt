@@ -1,0 +1,14 @@
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\bin\Debug\net7.0\AccermanFunction.exe
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\bin\Debug\net7.0\AccermanFunction.deps.json
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\bin\Debug\net7.0\AccermanFunction.runtimeconfig.json
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\bin\Debug\net7.0\AccermanFunction.dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\bin\Debug\net7.0\AccermanFunction.pdb
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\obj\Debug\net7.0\AccermanFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\obj\Debug\net7.0\AccermanFunction.AssemblyInfoInputs.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\obj\Debug\net7.0\AccermanFunction.AssemblyInfo.cs
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\obj\Debug\net7.0\AccermanFunction.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\obj\Debug\net7.0\AccermanFunction.dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\obj\Debug\net7.0\refint\AccermanFunction.dll
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\obj\Debug\net7.0\AccermanFunction.pdb
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\obj\Debug\net7.0\AccermanFunction.genruntimeconfig.cache
+C:\Users\Arsen\Desktop\GitRepos\С#\Lesson 1\AccermanFunction\obj\Debug\net7.0\ref\AccermanFunction.dll
